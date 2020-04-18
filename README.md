@@ -1,5 +1,5 @@
 # vesc_extender
-Vesc Uart <-> Wifi bridge
+Very dirty example of Vesc Uart <-> Wifi bridge.
 
 
 I use TTGO T-Display as ESP32 board.
