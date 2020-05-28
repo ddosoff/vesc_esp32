@@ -15,4 +15,4 @@ I got power from Vesc, but seems it's bad idea. With PowerBank to TTGO connectio
 Use PlatformIO to compile and flash T-Display board.
 
 Finally I found that protocol have to be refactored and UDP used. Because 1 lost packet cause long retransmission delay.
-I will implement simple UDP protocol later.
+My UDP pull request is applied to vesc_tool now.
